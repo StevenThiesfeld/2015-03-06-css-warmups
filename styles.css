@@ -1,6 +1,6 @@
 .facebook-login{
   font-size:12px;
-  background-color:blue;
+  background-color:#3A5795;
   padding:14px;
   color:white;
   width:350px;
@@ -21,11 +21,50 @@
 .middle{
   margin-right:14px;
 }
+.login{
+  color:white;
+  background-color:#627AAC;
+}
 
 .left{
   margin-right:20px;
 }
+.bottom{
+  color:grey;
+}
 
 #bottom-left{
   width:35%;
+}
+
+/*TWITTER
+---------------------------------------------------*/
+.twitter-container{
+  text-align:center;
+  padding: 20px;
+  width: 80%;
+}
+.twitter-container h1{
+  font-weight:500;
+  margin-bottom:15px;
+  color:#54A9EB;
+}
+
+.twitter-container h3{
+  margin-top:0;
+  color:grey;
+  font-weight:100;
+}
+.twitter-container img{
+  float:right;
+  width:15px;
+}
+
+.twitter-container button{
+  font-weight:bold;
+  margin-top: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background: #54A9EB;
+  color: white;
 }
