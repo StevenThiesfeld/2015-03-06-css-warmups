@@ -1,0 +1,31 @@
+.facebook-login{
+  font-size:12px;
+  background-color:blue;
+  padding:14px;
+  color:white;
+  width:350px;
+}
+
+.row{
+  width:350px;
+  overflow:visible;
+  text-wrap:none;
+}
+
+.row p{
+  margin:0;
+  display:inline-block;
+  width:39%;
+  
+}
+.middle{
+  margin-right:14px;
+}
+
+.left{
+  margin-right:20px;
+}
+
+#bottom-left{
+  width:35%;
+}
